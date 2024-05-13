@@ -1,1 +1,1 @@
-console.log('Ola parcel');
+AOS.init();
