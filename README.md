@@ -3,6 +3,7 @@
 **Comandos**
 `npm init -y`
 `npm i --save-dev parcel`
+`npm i sharp`
 
 **link Animação**
 
